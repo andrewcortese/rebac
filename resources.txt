@@ -1,0 +1,4 @@
+0 0 <friend>a#<family>a
+1 1 <friend>a@<coworker>a
+2 7 <friend>a#<family><coworker>a
+3 7 <friend>a#<coworker>a@<family>a
